@@ -6,4 +6,5 @@
 
 #GET STARTED
 git clone https://github.com/kasyuma01/practis.git
+
 pip install -r requirements.txt
