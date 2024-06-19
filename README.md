@@ -1,6 +1,6 @@
 
  
-This project iuse Exploratory data analysis to understand data
+This project use Exploratory data analysis to understand data
 
 It imports the datasets
 
