@@ -1,7 +1,11 @@
- project1
-This project is a music predicting algorithm and is supposed to suggest songs to the user
+
+ 
+This project iuse Exploratory data analysis to understand data
+
 It imports the datasets
+
 Cleans the data
+
 Visualises the data
 
 GET STARTED
