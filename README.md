@@ -8,6 +8,8 @@ Cleans the data
 
 Visualises the data
 
+Data sets sourced from kaggle.com
+
 GET STARTED
 
 git clone https://github.com/kasyuma01/practis.git
